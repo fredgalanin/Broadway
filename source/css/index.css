@@ -1,0 +1,44 @@
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.background  {
+  background-image:
+  url("../img/building.png");
+  color: white;
+}
+
+.title, .navigation {
+  color: white;
+}
+.title {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+.ngt-btn {
+  font-size: 18px;
+  text-align: center;
+  color: white;
+}
+
+.background2 {
+  background-color: dimgrey;
+  text-align: left;
+  color: white;
+}
